@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jose Galiano | Shopify Front-end Developer 👋
 
 <!--
 **jose-galiano/jose-galiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
